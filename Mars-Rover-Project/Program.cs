@@ -14,7 +14,7 @@ namespace Mars_Rover_Project
         {
             try
             {
-                var fileName = Path.Combine(Directory.GetCurrentDirectory(), "../../../data.txt");
+                var fileName = Path.Combine(Directory.GetCurrentDirectory(), "data.txt");
             
                 var lines = await ReadLinesAsync(fileName);
                 
