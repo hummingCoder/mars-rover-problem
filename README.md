@@ -1,8 +1,8 @@
-# mars rover problem
+# Mars Rover Problem
 
-## Build and run
+## Run
 
-cd Mars-Rover-Solution
+cd mars-rover-problem
 
 dotnet watch --project Mars-Rover-Project/Mars-Rover-Project.csproj run
 
@@ -11,3 +11,4 @@ dotnet watch --project Mars-Rover-Project/Mars-Rover-Project.csproj run
 cd  Mars-Rover-Project/Test
 
 dotnet test
+

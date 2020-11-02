@@ -41,5 +41,4 @@ msbuild.wrn
 riderModule.iml
 /_ReSharper.Caches/
 
-*.DotSettings.user
-/Mars-Rover-Project/Mars-Rover-Project.csproj
+*.DotSettings.user	
